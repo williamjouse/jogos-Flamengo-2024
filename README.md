@@ -11,6 +11,7 @@ contém as seguintes colunas:
 - tournament: Torneio ou competição e rodada
 - kick-off: Data e hora da partida
 - stadium: Estádio da partida
+- attendance: Público da partida
 
 
 Na segunda tabela de nome [goal_scorers_2024.csv](https://github.com/williamjouse/jogos-Flamengo-2024/blob/main/data/raw/goal_scorers_2024.csv) contém as seguites colunas:
