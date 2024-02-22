@@ -1,0 +1,12 @@
+id_match,home_team,away_team,home_score,away_score,tournament,kick-off,stadium,attendance,torneio,locale,resultado,gols_casa,gols_sofridos_casa,gols_fora,gols_sofridos_fora,marcou_gol,sofreu_gol,jogos_cumulativos
+CA1,Flamengo,Audax-RJ,4,0,Carioca - Round 1,2024-01-17 21:30:00,Arena da Amazônia-AM,44068,Carioca,Casa,Vitória,4,0,0,0,Sim,Não,1
+AM1,Philadelphia Union-EUA,Flamengo,0,2,International Friendly Game,2024-01-21 16:00:00,AI Lang Stadium-EUA,7227,International Friendly Game,Fora,Vitória,0,0,2,0,Sim,Não,2
+CA2,Nova Iguaçu-RJ,Flamengo,1,1,Carioca - Round 2,2024-01-21 18:10:00,Estádio Almeidão-PB,16428,Carioca,Fora,Empate,0,0,1,1,Sim,Sim,3
+AM2,Orlando City,Flamengo,1,1,International Friendly Game,2024-01-27 16:00:00,Inter&Co Stadium-EUA,22678,International Friendly Game,Fora,Empate,0,0,1,1,Sim,Sim,4
+CA3,Portuguesa-RJ,Flamengo,0,0,Carioca - Round 3,2024-01-27 18:10:00,Arena das Dunas-RN,25211,Carioca,Fora,Empate,0,0,0,0,Não,Não,5
+CA4,Sampaio Corrêa-RJ,Flamengo,0,2,Carioca - Round 4,2024-01-31 21:30:00,Mangueirão-PA,47644,Carioca,Fora,Vitória,0,0,2,0,Sim,Não,6
+CA5,Vasco,Flamengo,0,0,Carioca - Round 5,2024-02-04 19:00:00,Maracanã-RJ,56318,Carioca,Fora,Empate,0,0,0,0,Não,Não,7
+CA6,Flamengo,Botafogo,1,0,Carioca - Round 6,2024-02-07 21:30:00,Maracanã-RJ,46798,Carioca,Casa,Vitória,1,0,0,0,Sim,Não,8
+CA7,Flamengo,Volta Redonda,3,0,Carioca - Round 7,2024-02-10 16:00:00,Maracanã-RJ,42373,Carioca,Casa,Vitória,3,0,0,0,Sim,Não,9
+CA8,Bangu-RJ,Flamengo,0,3,Carioca - Round 8,2024-02-15 21:30:00,Arena Batistão-SE,15575,Carioca,Fora,Vitória,0,0,3,0,Sim,Não,10
+CA9,Flamengo,Boa Vista-RJ,4,0,Carioca - Round 9,2024-02-21 21:30:00,Maracanã-RJ,34220,Carioca,Casa,Vitória,4,0,0,0,Sim,Não,11
