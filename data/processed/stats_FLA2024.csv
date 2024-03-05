@@ -1,4 +1,4 @@
-id_match,marcou_gol,sofreu_gol,kick-off,resultado,locale,jogos_cumulativos,gols_marcados,gols_sofridos,gols_marcados_acumulados,gols_sofridos_acumulados,diferença_gols_acumulados
+id_match,marcou_gol,sofreu_gol,kick-off,resultado,locale,jogos_cumulativos,gols_marcados,gols_sofridos,gols_marcados_acumulados,gols_sofridos_acumulados,diferenÃ§a_gols_acumulados
 CA1,Sim,Não,2024-01-17 21:30:00,Vitória,Casa,1,4,0,4,0,4
 AM1,Sim,Não,2024-01-21 16:00:00,Vitória,Fora,2,2,0,6,0,6
 CA2,Sim,Sim,2024-01-21 18:10:00,Empate,Fora,3,1,1,7,1,6
@@ -10,3 +10,5 @@ CA6,Sim,Não,2024-02-07 21:30:00,Vitória,Casa,8,1,0,11,2,9
 CA7,Sim,Não,2024-02-10 16:00:00,Vitória,Casa,9,3,0,14,2,12
 CA8,Sim,Não,2024-02-15 21:30:00,Vitória,Fora,10,3,0,17,2,15
 CA9,Sim,Não,2024-02-21 21:30:00,Vitória,Casa,11,4,0,21,2,19
+CA10,Sim,Não,2024-02-25 16:00:00,Vitória,Casa,12,2,0,23,2,21
+CA11,Sim,Não,2024-03-02 16:00:00,Vitória,Casa,13,3,0,26,2,24
