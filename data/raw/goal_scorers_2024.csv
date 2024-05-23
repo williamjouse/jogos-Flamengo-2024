@@ -16,7 +16,7 @@ CA7,Ayrton Lucas,NaN
 CA8,Pedro,Arrascaeta
 CA8,Pedro,Luiz Araújo
 CA8,Pedro,NaN
-CA9,Luiz Araujo,Igor Jesus
+CA9,Luiz Araújo,Igor Jesus
 CA9,Pedro,Everton Cebolinha
 CA9,Arrascaeta,NaN
 CA9,Arrascaeta,de la Cruz
@@ -25,3 +25,26 @@ CA10,Everton Cebolinha,Pedro
 CA11,Arrascaeta,NaN
 CA11,Pedro,NaN
 CA11,Léo Pereira,NaN
+CA12,Everton Cebolinha,Pulgar
+CA12,Pedro,Arrascaeta
+CA14,Pedro,NaN
+CA14,Pedro,Everton Cebolinha
+CA14,Own Goal,NaN
+LIB1,Pedro,NaN
+CA15,Bruno Henrique,Ayrton Lucas
+LIB2,Pedro,NaN
+LIB2,Léo Ortiz,Lorran
+BR1,de la Cruz,NaN
+BR1,Pedro,NaN
+BR2,Luiz Araújo,de la Cruz
+BR2,de la Cruz,NaN
+LIB3,Viña,Gerson
+CB1,Pedro,Viña
+BR5,Bruno Henrique,de la Cruz
+BR6,Lorran,Gerson
+BR6,Pedro,Lorran
+LIB5,Gerson,Everton Cebolinha
+LIB5,Ayrton Lucas,NaN
+LIB5,Everton Cebolinha,Pedro
+LIB5,Pedro,NaN
+CB2,Pedro,Igor Jesus

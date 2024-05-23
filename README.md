@@ -30,33 +30,39 @@ E [Plotting](https://github.com/williamjouse/jogos-Flamengo-2024/blob/main/noteb
 
 
 ```
-Jogos: 13
-Vitórias: 9
-Empates: 4
-Derrotas: 0 
-Gols pro: 26
-Gols contra: 2
-Saldo de gols: +24
-Gols/jogo: 2.0
-Gols sofridos/jogo: 0.15
-Jogos em que marcou: 11
-Jogos em que sofreu gol: 2 
-Aproveitamento: 79.49%
-Aproveitamento pontos: 31/39
+Jogos: 30
+Vitórias: 19
+Empates: 8
+Derrotas: 3 
+Gols pro: 49
+Gols contra: 11
+Saldo de gols: +38
+Gols/jogo: 1.63
+Gols sofridos/jogo: 0.37
+Jogos em que marcou: 24
+Jogos em que sofreu gol: 9 
+Aproveitamento: 72.22%
+Aproveitamento pontos: 65/90
 ```
 
 | Jogador           |   Gols |   Assistências |
 |:------------------|-------:|---------------:|
-| Pedro             |     10 |              1 |
+| Pedro             |     20 |              2 |
+| Everton Cebolinha |      5 |              3 |
 | Léo Pereira       |      3 |              0 |
-| Everton Cebolinha |      3 |              1 |
-| Arrascaeta        |      3 |              3 |
+| Bruno Henrique    |      3 |              0 |
+| Arrascaeta        |      3 |              4 |
 | Gabi              |      2 |              0 |
+| Ayrton Lucas      |      2 |              3 |
+| Luiz Araújo       |      2 |              3 |
+| de la Cruz        |      2 |              3 |
 | Varela            |      1 |              1 |
 | Thiaguinho        |      1 |              0 |
-| Bruno Henrique    |      1 |              0 |
-| Ayrton Lucas      |      1 |              2 |
-| Luiz Araujo       |      1 |              0 |
+| Own Goal          |      1 |              0 |
+| Léo Ortiz         |      1 |              0 |
+| Viña              |      1 |              1 |
+| Lorran            |      1 |              3 |
+
 
 
 
@@ -69,3 +75,4 @@ Aproveitamento pontos: 31/39
 - [Sofascore](https://www.sofascore.com/)
 - [Fotmob](https://www.fotmob.com/)
 - [ge](https://ge.globo.com/)
+- [Flashscore](https://www.flashscore.com)
