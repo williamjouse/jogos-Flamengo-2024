@@ -69,6 +69,13 @@ Aproveitamento pontos: 65/90
 
 ## Gráficos
 
+![img1.png](notebooks/figures/figure.png)
+
+![img1.png](notebooks/figures/figure2.png)
+
+![img1.png](notebooks/figures/figure3.png)
+
+
 
 ## Referências e Dados
 
