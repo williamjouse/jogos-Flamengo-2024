@@ -30,39 +30,38 @@ E [Plotting](https://github.com/williamjouse/jogos-Flamengo-2024/blob/main/noteb
 
 
 ```
-Jogos: 30
-Vitórias: 19
+Jogos: 32
+Vitórias: 21
 Empates: 8
 Derrotas: 3 
-Gols pro: 49
-Gols contra: 11
-Saldo de gols: +38
-Gols/jogo: 1.63
-Gols sofridos/jogo: 0.37
-Jogos em que marcou: 24
-Jogos em que sofreu gol: 9 
-Aproveitamento: 72.22%
-Aproveitamento pontos: 65/90
+Gols pro: 58
+Gols contra: 12
+Saldo de gols: +46
+Gols/jogo: 1.81
+Gols sofridos/jogo: 0.38
+Jogos em que marcou: 26
+Jogos em que sofreu gol: 10 
+Aproveitamento: 73.96%
+Aproveitamento pontos: 71/96
 ```
 
 | Jogador           |   Gols |   Assistências |
 |:------------------|-------:|---------------:|
-| Pedro             |     20 |              2 |
-| Everton Cebolinha |      5 |              3 |
+| Pedro             |     23 |              3 |
+| Everton Cebolinha |      6 |              4 |
+| Bruno Henrique    |      4 |              0 |
+| Arrascaeta        |      4 |              6 |
 | Léo Pereira       |      3 |              0 |
-| Bruno Henrique    |      3 |              0 |
-| Arrascaeta        |      3 |              4 |
-| Gabi              |      2 |              0 |
-| Ayrton Lucas      |      2 |              3 |
-| Luiz Araújo       |      2 |              3 |
+| Gabi              |      3 |              0 |
 | de la Cruz        |      2 |              3 |
-| Varela            |      1 |              1 |
+| Own Goal          |      2 |              0 |
+| Luiz Araújo       |      2 |              3 |
+| Ayrton Lucas      |      2 |              3 |
 | Thiaguinho        |      1 |              0 |
-| Own Goal          |      1 |              0 |
 | Léo Ortiz         |      1 |              0 |
-| Viña              |      1 |              1 |
+| Varela            |      1 |              1 |
+| Viña              |      1 |              2 |
 | Lorran            |      1 |              3 |
-
 
 
 
