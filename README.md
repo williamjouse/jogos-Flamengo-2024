@@ -47,20 +47,22 @@ Aproveitamento pontos: 87/117
 
 | Jogador           |   Gols |   Assistências |
 |:------------------|-------:|---------------:|
-| Pedro             |     26 |              7 |
+| Pedro             |     29 |              7 |
 | Everton Cebolinha |      6 |              4 |
 | Bruno Henrique    |      6 |              0 |
+| Gabi              |      4 |              0 |
 | Luiz Araújo       |      4 |              7 |
-| Arrascaeta        |      4 |              6 |
+| Arrascaeta        |      4 |              7 |
 | Léo Pereira       |      3 |              0 |
-| Gabi              |      3 |              0 |
-| Ayrton Lucas      |      3 |              3 |
+| Ayrton Lucas      |      3 |              4 |
 | de la Cruz        |      2 |              3 |
 | David Luiz        |      2 |              0 |
 | Gerson            |      2 |              6 |
+| Own Goal          |      2 |              0 |
 | Léo Ortiz         |      1 |              1 |
 | Viña              |      1 |              2 |
 | Lorran            |      1 |              3 |
+
 
 
 ## Gráficos
