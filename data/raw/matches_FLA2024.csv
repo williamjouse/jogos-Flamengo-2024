@@ -20,7 +20,7 @@ CA15,Flamengo,Nova Iguaçu-RJ,1,0,Carioca - Final - Second leg,2024-04-07 17:00:
 LIB2,Flamengo,Palestino-CHI,2,0,Libertadores - Round 2,2024-04-10 19:00:00,Maracanã-RJ,58597
 BR1,Atlético-GO,Flamengo,1,2,Campeonato Brasileiro - Round 1,2024-04-14 16:00:00,Serra Dourada-GO,35195
 BR2,Flamengo,São Paulo,2,1,Campeonato Brasileiro - Round 2,2024-04-17 21:30:00,Maracanã-RJ,48103
-BR3,Palmeiras,Flamengo,0,0,Campeonato Brasileiro - Round 3,2024-04-21 16:00:00,Allianz Arena,29956
+BR3,Palmeiras,Flamengo,0,0,Campeonato Brasileiro - Round 3,2024-04-21 16:00:00,Allianz Arena-SP,29956
 LIB3,Bolívar-BOL,Flamengo,2,1,Libertadores - Round 3,2024-04-24 21:30:00,Hernando Siles-BOL,22620
 BR4,Flamengo,Botafogo,0,2,Campeonato Brasileiro - Round 4,2024-04-28 11:00:00,Maracanã-RJ,46798
 CB1,Flamengo,Amazonas-AM,1,0,Copa do Brasil - Round 3 - First leg,2024-05-01 21:30:00,Maracanã-RJ,39015
@@ -41,3 +41,13 @@ BR14,Atlético-MG,Flamengo,2,4,Campeonato Brasileiro - Round 14,2024-07-03 21:30
 BR15,Flamengo,Cuiabá,1,1,Campeonato Brasileiro - Round 15,2024-07-06 20:00:00,Maracanã-RJ,54948
 BR16,Flamengo,Fortaleza,1,2,Campeonato Brasileiro - Round 16,2024-07-11 20:00:00,Maracanã-RJ,57500
 BR17,Flamengo,Criciúma,2,1,Campeonato Brasileiro - Round 17,2024-07-20 16:00:00,Mané Garrincha-BR,60127
+BR18,Vitória,Flamengo,1,2,Campeonato Brasileiro - Round 18,2024-07-24 20:00:00,Barradão-BA,30688
+BR19,Flamengo,Atlético-GO,2,0,Campeonato Brasileiro - Round 19, 2024-07-28 16:00:00,Maracanã-RJ,61883
+CB3,Flamengo,Palmeiras,2,0,Copa do Brasil - Round of 16 - First Leg,2024-07-31 20:00:00,Maracanã-RJ,59502
+BR20,São Paulo,Flamengo,1,0,Campeonato Brasileiro - Round 20,2024-08-03 21:30:00,Morumbis-SP,58065
+CB4,Palmeiras,Flamengo,1,0,Copa do Brasil - Round of 16 - Second Leg,2024-08-07 20:00:00,Allianz Arena-SP,38463
+BR21,Flamengo,Palmeiras,1,1,Campeonato Brasileiro - Round 21,2024-08-11 16:00:00,Maracanã-RJ,55051
+LIB7,Flamengo,Bolívar-BOL,2,0,Libertadores - Round of 16 - First Leg,2024-08-15 21:30:00,Maracanã-RJ,65381
+BR22,Botafogo,Flamengo,4,1,Campeonato Brasileiro - Round 22,2024-08-18 18:30:00,Nilton Santos-RJ,23731
+LIB8,Bolívar-BOL,Flamengo,1,0,Libertadores - Round of 16 - Second Leg,2024-08-22 21:30:00,Hernando Siles-BOL,29168
+BR23,Flamengo,Bragantino,2,1,Campeonato Brasileiro - Round 23,2024-08-25 20:00:00,Maracanã-RJ,30225

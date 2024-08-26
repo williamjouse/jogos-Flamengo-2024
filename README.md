@@ -30,38 +30,38 @@ E [Plotting](https://github.com/williamjouse/jogos-Flamengo-2024/blob/main/noteb
 
 
 ```
-Jogos: 39
-Vitórias: 26
-Empates: 9
-Derrotas: 4 
-Gols pro: 71
-Gols contra: 20
-Saldo de gols: +51
-Gols/jogo: 1.82
-Gols sofridos/jogo: 0.51
-Jogos em que marcou: 33
-Jogos em que sofreu gol: 16 
-Aproveitamento: 74.36%
-Aproveitamento pontos: 87/117
+Jogos: 52
+Vitórias: 32
+Empates: 11
+Derrotas: 9 
+Gols pro: 87
+Gols contra: 34
+Saldo de gols: +53
+Gols/jogo: 1.67
+Gols sofridos/jogo: 0.65
+Jogos em que marcou: 43
+Jogos em que sofreu gol: 26 
+Aproveitamento: 68.59%
+Aproveitamento pontos: 107/156
 ```
 
 | Jogador           |   Gols |   Assistências |
 |:------------------|-------:|---------------:|
-| Pedro             |     29 |              7 |
+| Pedro             |     31 |              8 |
+| Bruno Henrique    |      7 |              0 |
+| Arrascaeta        |      7 |              8 |
 | Everton Cebolinha |      6 |              4 |
-| Bruno Henrique    |      6 |              0 |
-| Gabi              |      4 |              0 |
-| Luiz Araújo       |      4 |              7 |
-| Arrascaeta        |      4 |              7 |
+| Luiz Araújo       |      6 |             10 |
+| Gabi              |      4 |              1 |
 | Léo Pereira       |      3 |              0 |
-| Ayrton Lucas      |      3 |              4 |
-| de la Cruz        |      2 |              3 |
+| Ayrton Lucas      |      3 |              5 |
 | David Luiz        |      2 |              0 |
-| Gerson            |      2 |              6 |
-| Own Goal          |      2 |              0 |
-| Léo Ortiz         |      1 |              1 |
-| Viña              |      1 |              2 |
-| Lorran            |      1 |              3 |
+| Carlinhos         |      2 |              0 |
+| de la Cruz        |      2 |              4 |
+| Gerson            |      2 |              7 |
+| Leo Pereira       |      1 |              0 |
+| Fabricio Bruno    |      1 |              0 |
+
 
 
 
