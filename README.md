@@ -30,34 +30,35 @@ E [Plotting](https://github.com/williamjouse/jogos-Flamengo-2024/blob/main/noteb
 
 
 ```
-Jogos: 52
-Vitórias: 32
+Jogos: 55
+Vitórias: 34
 Empates: 11
-Derrotas: 9 
-Gols pro: 87
-Gols contra: 34
-Saldo de gols: +53
-Gols/jogo: 1.67
+Derrotas: 10 
+Gols pro: 90
+Gols contra: 36
+Saldo de gols: +54
+Gols/jogo: 1.64
 Gols sofridos/jogo: 0.65
-Jogos em que marcou: 43
-Jogos em que sofreu gol: 26 
-Aproveitamento: 68.59%
-Aproveitamento pontos: 107/156
+Jogos em que marcou: 46
+Jogos em que sofreu gol: 27 
+Aproveitamento: 68.48%
+Aproveitamento pontos: 113/165
 ```
 
 | Jogador           |   Gols |   Assistências |
 |:------------------|-------:|---------------:|
-| Pedro             |     31 |              8 |
-| Bruno Henrique    |      7 |              0 |
-| Arrascaeta        |      7 |              8 |
+| Pedro             |     32 |              8 |
+| Bruno Henrique    |      8 |              1 |
+| Arrascaeta        |      8 |              8 |
 | Everton Cebolinha |      6 |              4 |
 | Luiz Araújo       |      6 |             10 |
 | Gabi              |      4 |              1 |
 | Léo Pereira       |      3 |              0 |
 | Ayrton Lucas      |      3 |              5 |
+| Own Goal          |      3 |              0 |
 | David Luiz        |      2 |              0 |
 | Carlinhos         |      2 |              0 |
-| de la Cruz        |      2 |              4 |
+| de la Cruz        |      2 |              5 |
 | Gerson            |      2 |              7 |
 | Leo Pereira       |      1 |              0 |
 | Fabricio Bruno    |      1 |              0 |
