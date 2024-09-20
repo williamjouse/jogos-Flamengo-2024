@@ -30,19 +30,19 @@ E [Plotting](https://github.com/williamjouse/jogos-Flamengo-2024/blob/main/noteb
 
 
 ```
-Jogos: 56
+Jogos: 57
 Vitórias: 34
 Empates: 12
-Derrotas: 10 
+Derrotas: 11 
 Gols pro: 91
-Gols contra: 37
-Saldo de gols: +54
-Gols/jogo: 1.62
-Gols sofridos/jogo: 0.66
+Gols contra: 38
+Saldo de gols: +53
+Gols/jogo: 1.6
+Gols sofridos/jogo: 0.67
 Jogos em que marcou: 47
 Jogos em que sofreu gol: 28 
-Aproveitamento: 67.86%
-Aproveitamento pontos: 114/168
+Aproveitamento: 66.67%
+Aproveitamento pontos: 114/171
 ```
 
 | Jogador           |   Gols |   Assistências |
