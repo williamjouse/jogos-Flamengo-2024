@@ -19,6 +19,6 @@ def execute_notebooks(notebook_list):
 
 
 if __name__ == "__main__":
-    notebooks_to_run = ["01-Data-wrangling.ipynb", "02-Statistics_Analysis-2024.ipynb"]
+    notebooks_to_run = ["01-Data-wrangling.ipynb", "02-Statistics_Analysis-2024.ipynb", "03-Plotting.ipynb"]
 
     execute_notebooks(notebooks_to_run)

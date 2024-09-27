@@ -1,48 +1,73 @@
-# Dados dos jogos do Flamengo temporada 2024
+# 🔴⚫ Jogos do Flamengo temporada 2024
 
-Nesse repositório são encontradas tabelas com informações e análises sobre os jogos do Flamengo na temporada 2024. A tabela [matches_FLA2024.csv](https://github.com/williamjouse/jogos-Flamengo-2024/blob/main/data/raw/matches_FLA2024.csv)
-contém as seguintes colunas:
+Bem-vindo ao repositório **Jogos do Flamengo**! Este projeto contém dados e 
+sobre as partidas da temporada 2024 do Flamengo.
 
-- id_match: ID do jogo
-- home_team: Time mandante
-- away_team: Time visitante
-- home_score: Gols marcado pelo mandante
-- away_score: Gols marcado pelo visitante
-- tournament: Torneio ou competição e rodada
-- kick-off: Data e hora da partida
-- stadium: Estádio da partida
-- attendance: Público da partida
+## 📋 Descrição
 
+Este repositório contém dados e scripts que auxiliam na coleta, organização e análise de informações sobre os jogos do Flamengo, incluindo:
 
-Na segunda tabela de nome [goal_scorers_2024.csv](https://github.com/williamjouse/jogos-Flamengo-2024/blob/main/data/raw/goal_scorers_2024.csv) contém as seguites colunas:
+- Resultados de partidas
+- Adversários
+- Datas e locais dos jogos
+- Gols marcados e sofridos
+- Estádio, público
 
-- id_match: ID do jogo
-- gols: Jogador que marcou gol na partida
-- assist: Assistência para o gol
+## 🚀 Funcionalidades
 
-No arquivo [matches_FLA2024.xlsx](https://github.com/williamjouse/jogos-Flamengo-2024/blob/main/data/matches_FLA2024.xlsx) contém a junção das 2 tabelas em um único lugar.
+- Acesso a um banco de dados de jogos da temporada 2024
+- Estatísticas das partidas
+- Artilharia e assistência dos jogadores 
+- Visualização dos gols sofridos e marcados
+- Comparação de desempenho em diferentes campeonatos
+- Desempenho por mês
+- Visualização de estatísticas dos jogadores e da equipe
 
-No arquivo [Data-wrangling](https://github.com/williamjouse/jogos-Flamengo-2024/blob/main/notebooks/01-Data-wrangling.ipynb) é criado colunas derivadas dos dados originais. A análise 
-é feita no [Statistics_Analysis-2024](https://github.com/williamjouse/jogos-Flamengo-2024/blob/main/notebooks/02-Statistics_Analysis-2024.ipynb) é calculado algumas estatísticas que são mostradas abaixo.
-E [Plotting](https://github.com/williamjouse/jogos-Flamengo-2024/blob/main/notebooks/03-Plotting.ipynb) é plotado os gráficos.
+## 📦 Estrutura do Repositório
+
+A estrutura básica do repositório é a seguinte:
+
+```bash
+/
+├── data/raw/        # Arquivos CSV com os dados dos jogos
+├── notebooks/       # Jupyter notebooks com análises
+├── figures/         # Gráficos e outras imagens
+└── README.md        # Documentação principal
+```
+
+## ⚙️ Tecnologias Utilizadas
+
+- Python: Linguagem principal para coleta e processamento de dados
+- Pandas: Biblioteca para manipulação de dados
+- Matplotlib/Seaborn: Visualização de gráficos e estatísticas
+- Jupyter Notebook: Para criar e compartilhar análises
+
+## 🗂️ Fontes de Dados
+
+Os dados dos jogos do Flamengo podem ser obtidos de várias fontes, como:
+
+- [Sofascore](https://www.sofascore.com/)
+- [Fotmob](https://www.fotmob.com/)
+- [ge](https://ge.globo.com/)
+- [Flashscore](https://www.flashscore.com)
+
 
 ## Estatísticas
 
-
 ```
-Jogos: 58
+Jogos: 59
 Vitórias: 34
-Empates: 12
+Empates: 13
 Derrotas: 12 
 Gols pro: 93
 Gols contra: 41
 Saldo de gols: +52
-Gols/jogo: 1.6
-Gols sofridos/jogo: 0.71
+Gols/jogo: 1.58
+Gols sofridos/jogo: 0.69
 Jogos em que marcou: 48
-Jogos em que sofreu gol: 28 
-Aproveitamento: 65.52%
-Aproveitamento pontos: 114/174
+Jogos em que sofreu gol: 29 
+Aproveitamento: 64.97%
+Aproveitamento pontos: 115/177
 ```
 
 | Jogador           |   Gols |   Assistências |
@@ -67,17 +92,10 @@ Aproveitamento pontos: 114/174
 
 ## Gráficos
 
-![img1.png](notebooks/figures/figure.png)
+![img1.png](figures/figure.png)
 
-![img1.png](notebooks/figures/figure2.png)
+![img1.png](figures/figure2.png)
 
-![img1.png](notebooks/figures/figure3.png)
+![img1.png](figures/figure3.png)
 
 
-
-## Referências e Dados
-
-- [Sofascore](https://www.sofascore.com/)
-- [Fotmob](https://www.fotmob.com/)
-- [ge](https://ge.globo.com/)
-- [Flashscore](https://www.flashscore.com)

@@ -1,59 +1,60 @@
-id_match,home_team,away_team,home_score,away_score,tournament,kick-off,stadium,attendance,torneio,locale,resultado,gols_casa,gols_sofridos_casa,gols_fora,gols_sofridos_fora,marcou_gol,sofreu_gol,jogos_cumulativos
-CA1,Flamengo,Audax-RJ,4,0,Carioca - Round 1,2024-01-17 21:30:00,Arena da Amazônia-AM,44068,Carioca,Casa,Vitória,4,0,0,0,Sim,Não,1
-AM1,Philadelphia Union-EUA,Flamengo,0,2,International Friendly Game,2024-01-21 16:00:00,AI Lang Stadium-EUA,7227,International Friendly Game,Fora,Vitória,0,0,2,0,Sim,Não,2
-CA2,Nova Iguaçu-RJ,Flamengo,1,1,Carioca - Round 2,2024-01-21 18:10:00,Estádio Almeidão-PB,16428,Carioca,Fora,Empate,0,0,1,1,Sim,Sim,3
-AM2,Orlando City,Flamengo,1,1,International Friendly Game,2024-01-27 16:00:00,Inter&Co Stadium-EUA,22678,International Friendly Game,Fora,Empate,0,0,1,1,Sim,Sim,4
-CA3,Portuguesa-RJ,Flamengo,0,0,Carioca - Round 3,2024-01-27 18:10:00,Arena das Dunas-RN,25211,Carioca,Fora,Empate,0,0,0,0,Não,Não,5
-CA4,Sampaio Corrêa-RJ,Flamengo,0,2,Carioca - Round 4,2024-01-31 21:30:00,Mangueirão-PA,47644,Carioca,Fora,Vitória,0,0,2,0,Sim,Não,6
-CA5,Vasco,Flamengo,0,0,Carioca - Round 5,2024-02-04 19:00:00,Maracanã-RJ,56318,Carioca,Fora,Empate,0,0,0,0,Não,Não,7
-CA6,Flamengo,Botafogo,1,0,Carioca - Round 6,2024-02-07 21:30:00,Maracanã-RJ,46798,Carioca,Casa,Vitória,1,0,0,0,Sim,Não,8
-CA7,Flamengo,Volta Redonda,3,0,Carioca - Round 7,2024-02-10 16:00:00,Maracanã-RJ,42373,Carioca,Casa,Vitória,3,0,0,0,Sim,Não,9
-CA8,Bangu-RJ,Flamengo,0,3,Carioca - Round 8,2024-02-15 21:30:00,Arena Batistão-SE,15575,Carioca,Fora,Vitória,0,0,3,0,Sim,Não,10
-CA9,Flamengo,Boa Vista-RJ,4,0,Carioca - Round 9,2024-02-21 21:30:00,Maracanã-RJ,34220,Carioca,Casa,Vitória,4,0,0,0,Sim,Não,11
-CA10,Flamengo,Fluminense,2,0,Carioca - Round 10,2024-02-25 16:00:00,Maracanã-RJ,55401,Carioca,Casa,Vitória,2,0,0,0,Sim,Não,12
-CA11,Flamengo,Madureira-RJ,3,0,Carioca - Round 11,2024-03-02 16:00:00,Maracanã-RJ,63422,Carioca,Casa,Vitória,3,0,0,0,Sim,Não,13
-CA12,Fluminense,Flamengo,0,2,Carioca - Semifinal - First leg,2024-03-09 21:30:00,Maracanã-RJ,52169,Carioca,Fora,Vitória,0,0,2,0,Sim,Não,14
-CA13,Flamengo,Fluminense,0,0,Carioca - Semifinal - Second leg,2024-03-16 21:00:00,Maracanã-RJ,56261,Carioca,Casa,Empate,0,0,0,0,Não,Não,15
-CA14,Nova Iguaçu-RJ,Flamengo,0,3,Carioca - Final - First leg,2024-03-30 17:00:00,Maracanã-RJ,43778,Carioca,Fora,Vitória,0,0,3,0,Sim,Não,16
-LIB1,Millonarios-COL,Flamengo,1,1,Copa Libertadores - Round 1,2024-04-02 19:00:00,El Campin-COL,22205,Copa Libertadores,Fora,Empate,0,0,1,1,Sim,Sim,17
-CA15,Flamengo,Nova Iguaçu-RJ,1,0,Carioca - Final - Second leg,2024-04-07 17:00:00,Maracanã-RJ,65757,Carioca,Casa,Vitória,1,0,0,0,Sim,Não,18
-LIB2,Flamengo,Palestino-CHI,2,0,Copa Libertadores - Round 2,2024-04-10 19:00:00,Maracanã-RJ,58597,Copa Libertadores,Casa,Vitória,2,0,0,0,Sim,Não,19
-BR1,Atlético-GO,Flamengo,1,2,Campeonato Brasileiro - Round 1,2024-04-14 16:00:00,Serra Dourada-GO,35195,Campeonato Brasileiro,Fora,Vitória,0,0,2,1,Sim,Sim,20
-BR2,Flamengo,São Paulo,2,1,Campeonato Brasileiro - Round 2,2024-04-17 21:30:00,Maracanã-RJ,48103,Campeonato Brasileiro,Casa,Vitória,2,1,0,0,Sim,Sim,21
-BR3,Palmeiras,Flamengo,0,0,Campeonato Brasileiro - Round 3,2024-04-21 16:00:00,Allianz Arena-SP,29956,Campeonato Brasileiro,Fora,Empate,0,0,0,0,Não,Não,22
-LIB3,Bolívar-BOL,Flamengo,2,1,Copa Libertadores - Round 3,2024-04-24 21:30:00,Hernando Siles-BOL,22620,Copa Libertadores,Fora,Derrota,0,0,1,2,Sim,Sim,23
-BR4,Flamengo,Botafogo,0,2,Campeonato Brasileiro - Round 4,2024-04-28 11:00:00,Maracanã-RJ,46798,Campeonato Brasileiro,Casa,Derrota,0,2,0,0,Não,Sim,24
-CB1,Flamengo,Amazonas-AM,1,0,Copa do Brasil - Round 3 - First leg,2024-05-01 21:30:00,Maracanã-RJ,39015,Copa do Brasil,Casa,Vitória,1,0,0,0,Sim,Não,25
-BR5,Bragantino,Flamengo,1,1,Campeonato Brasileiro - Round 5,2024-05-04 18:30:00,Nabi Abi Chedid-SP,9971,Campeonato Brasileiro,Fora,Empate,0,0,1,1,Sim,Sim,26
-LIB4,Palestino-CHI,Flamengo,1,0,Copa Libertadores - Round 4,2024-05-07 21:00:00,Francisco Sánchez Rumoroso-CHI,4217,Copa Libertadores,Fora,Derrota,0,0,0,1,Não,Sim,27
-BR6,Flamengo,Corinthians,2,0,Campeonato Brasileiro - Round 6,2024-05-11 16:00:00,Maracanã-RJ,56829,Campeonato Brasileiro,Casa,Vitória,2,0,0,0,Sim,Não,28
-LIB5,Flamengo,Bolívar-BOL,4,0,Copa Libertadores - Round 5,2024-05-15 21:30:00,Maracanã-RJ,63169,Copa Libertadores,Casa,Vitória,4,0,0,0,Sim,Não,29
-CB2,Amazonas-AM,Flamengo,0,1,Copa do Brasil - Round 3 - Second leg,2024-05-22 21:30:00,Arena da Amazônia-AM,22948,Copa do Brasil,Fora,Vitória,0,0,1,0,Sim,Não,30
-LIB6,Flamengo,Millonarios-COL,3,0,Copa Libertadores - Round 6,2024-05-28 21:00:00,Maracanã-RJ,64268,Copa Libertadores,Casa,Vitória,3,0,0,0,Sim,Não,31
-BR7,Vasco,Flamengo,1,6,Campeonato Brasileiro - Round 7,2024-06-02 16:00:00,Maracanã-RJ,62228,Campeonato Brasileiro,Fora,Vitória,0,0,6,1,Sim,Sim,32
-BR8,Flamengo,Grêmio,2,1,Campeonato Brasileiro - Round 8,2024-06-13 20:00:00,Maracanã-RJ,51785,Campeonato Brasileiro,Casa,Vitória,2,1,0,0,Sim,Sim,33
-BR9,Athletico-PR,Flamengo,1,1,Campeonato Brasileiro - Round 9,2024-06-16 16:00:00,Ligga Arena-PR,38641,Campeonato Brasileiro,Fora,Empate,0,0,1,1,Sim,Sim,34
-BR10,Flamengo,Bahia,2,1,Campeonato Brasileiro - Round 10,2024-06-21 20:00:00,Maracanã-RJ,49909,Campeonato Brasileiro,Casa,Vitória,2,1,0,0,Sim,Sim,35
-BR11,Fluminense,Flamengo,0,1,Campeonato Brasileiro - Round 11,2024-06-23 16:00:00,Maracanã-RJ,57098,Campeonato Brasileiro,Fora,Vitória,0,0,1,0,Sim,Não,36
-BR12,Juventude,Flamengo,2,1,Campeonato Brasileiro - Round 12,2024-06-26 20:00:00,Alfredo Jaconi-RS,12675,Campeonato Brasileiro,Fora,Derrota,0,0,1,2,Sim,Sim,37
-BR13,Flamengo,Cruzeiro,2,1,Campeonato Brasileiro - Round 13,2024-06-30 18:30:00,Maracanã-RJ,52768,Campeonato Brasileiro,Casa,Vitória,2,1,0,0,Sim,Sim,38
-BR14,Atlético-MG,Flamengo,2,4,Campeonato Brasileiro - Round 14,2024-07-03 21:30:00,MRV Arena-MG,39993,Campeonato Brasileiro,Fora,Vitória,0,0,4,2,Sim,Sim,39
-BR15,Flamengo,Cuiabá,1,1,Campeonato Brasileiro - Round 15,2024-07-06 20:00:00,Maracanã-RJ,54948,Campeonato Brasileiro,Casa,Empate,1,1,0,0,Sim,Sim,40
-BR16,Flamengo,Fortaleza,1,2,Campeonato Brasileiro - Round 16,2024-07-11 20:00:00,Maracanã-RJ,57500,Campeonato Brasileiro,Casa,Derrota,1,2,0,0,Sim,Sim,41
-BR17,Flamengo,Criciúma,2,1,Campeonato Brasileiro - Round 17,2024-07-20 16:00:00,Mané Garrincha-BR,60127,Campeonato Brasileiro,Casa,Vitória,2,1,0,0,Sim,Sim,42
-BR18,Vitória,Flamengo,1,2,Campeonato Brasileiro - Round 18,2024-07-24 20:00:00,Barradão-BA,30688,Campeonato Brasileiro,Fora,Vitória,0,0,2,1,Sim,Sim,43
-BR19,Flamengo,Atlético-GO,2,0,Campeonato Brasileiro - Round 19,2024-07-28 16:00:00,Maracanã-RJ,61883,Campeonato Brasileiro,Casa,Vitória,2,0,0,0,Sim,Não,44
-CB3,Flamengo,Palmeiras,2,0,Copa do Brasil - Round of 16 - First Leg,2024-07-31 20:00:00,Maracanã-RJ,59502,Copa do Brasil,Casa,Vitória,2,0,0,0,Sim,Não,45
-BR20,São Paulo,Flamengo,1,0,Campeonato Brasileiro - Round 20,2024-08-03 21:30:00,Morumbis-SP,58065,Campeonato Brasileiro,Fora,Derrota,0,0,0,1,Não,Sim,46
-CB4,Palmeiras,Flamengo,1,0,Copa do Brasil - Round of 16 - Second Leg,2024-08-07 20:00:00,Allianz Arena-SP,38463,Copa do Brasil,Fora,Derrota,0,0,0,1,Não,Sim,47
-BR21,Flamengo,Palmeiras,1,1,Campeonato Brasileiro - Round 21,2024-08-11 16:00:00,Maracanã-RJ,55051,Campeonato Brasileiro,Casa,Empate,1,1,0,0,Sim,Sim,48
-LIB7,Flamengo,Bolívar-BOL,2,0,Copa Libertadores - Round of 16 - First Leg,2024-08-15 21:30:00,Maracanã-RJ,65381,Copa Libertadores,Casa,Vitória,2,0,0,0,Sim,Não,49
-BR22,Botafogo,Flamengo,4,1,Campeonato Brasileiro - Round 22,2024-08-18 18:30:00,Nilton Santos-RJ,23731,Campeonato Brasileiro,Fora,Derrota,0,0,1,4,Sim,Sim,50
-LIB8,Bolívar-BOL,Flamengo,1,0,Copa Libertadores - Round of 16 - Second Leg,2024-08-22 21:30:00,Hernando Siles-BOL,29168,Copa Libertadores,Fora,Derrota,0,0,0,1,Não,Sim,51
-BR23,Flamengo,Bragantino,2,1,Campeonato Brasileiro - Round 23,2024-08-25 20:00:00,Maracanã-RJ,30225,Campeonato Brasileiro,Casa,Vitória,2,1,0,0,Sim,Sim,52
-CB5,Bahia,Flamengo,0,1,Copa do Brasil - Quarterfinals - First Leg,2024-08-28 21:30:00,Arena Fonte Nova-BA,46534,Copa do Brasil,Fora,Vitória,0,0,1,0,Sim,Não,53
-BR24,Corinthians,Flamengo,2,1,Campeonato Brasileiro - Round 24,2024-09-01 16:00:00,NeoQuímica Arena-SP,45635,Campeonato Brasileiro,Fora,Derrota,0,0,1,2,Sim,Sim,54
-CB6,Flamengo,Bahia,1,0,Copa do Brasil - Quarterfinals - Second Leg,2024-09-12 21:45:00,Maracanã-RJ,65662,Copa do Brasil,Casa,Vitória,1,0,0,0,Sim,Não,55
-BR25,Flamengo,Vasco,1,1,Campeonato Brasileiro - Round 25,2024-09-15 18:30:00,Maracanã-RJ,64524,Campeonato Brasileiro,Casa,Empate,1,1,0,0,Sim,Sim,56
-LIB9,Flamengo,Peñarol-URU,0,1,Copa Libertadores - Quarterfinals - First Leg,2024-09-19 19:00:00,Maracanã-RJ,64396,Copa Libertadores,Casa,Derrota,0,1,0,0,Não,Sim,57
-BR26,Grêmio,Flamengo,3,2,Campeonato Brasileiro - Round 26,2024-09-22 18:30:00,Arena do Grêmio-RS,18049,Campeonato Brasileiro,Fora,Derrota,0,0,2,3,Sim,Sim,58
+id_match,home_team,away_team,home_score,away_score,tournament,kick-off,stadium,attendance,torneio,locale,resultado,gols_casa,gols_sofridos_casa,gols_fora,gols_sofridos_fora,marcou_gol,sofreu_gol,jogos_cumulativos,year,month,weekday
+CA1,Flamengo,Audax-RJ,4,0,Carioca - Round 1,2024-01-17 21:30:00,Arena da Amazônia-AM,44068,Carioca,Casa,Vitória,4,0,0,0,Sim,Não,1,2024,Jan,Wed
+AM1,Philadelphia Union-EUA,Flamengo,0,2,International Friendly Game,2024-01-21 16:00:00,AI Lang Stadium-EUA,7227,International Friendly Game,Fora,Vitória,0,0,2,0,Sim,Não,2,2024,Jan,Sun
+CA2,Nova Iguaçu-RJ,Flamengo,1,1,Carioca - Round 2,2024-01-21 18:10:00,Estádio Almeidão-PB,16428,Carioca,Fora,Empate,0,0,1,1,Sim,Sim,3,2024,Jan,Sun
+AM2,Orlando City,Flamengo,1,1,International Friendly Game,2024-01-27 16:00:00,Inter&Co Stadium-EUA,22678,International Friendly Game,Fora,Empate,0,0,1,1,Sim,Sim,4,2024,Jan,Sat
+CA3,Portuguesa-RJ,Flamengo,0,0,Carioca - Round 3,2024-01-27 18:10:00,Arena das Dunas-RN,25211,Carioca,Fora,Empate,0,0,0,0,Não,Não,5,2024,Jan,Sat
+CA4,Sampaio Corrêa-RJ,Flamengo,0,2,Carioca - Round 4,2024-01-31 21:30:00,Mangueirão-PA,47644,Carioca,Fora,Vitória,0,0,2,0,Sim,Não,6,2024,Jan,Wed
+CA5,Vasco,Flamengo,0,0,Carioca - Round 5,2024-02-04 19:00:00,Maracanã-RJ,56318,Carioca,Fora,Empate,0,0,0,0,Não,Não,7,2024,Feb,Sun
+CA6,Flamengo,Botafogo,1,0,Carioca - Round 6,2024-02-07 21:30:00,Maracanã-RJ,46798,Carioca,Casa,Vitória,1,0,0,0,Sim,Não,8,2024,Feb,Wed
+CA7,Flamengo,Volta Redonda,3,0,Carioca - Round 7,2024-02-10 16:00:00,Maracanã-RJ,42373,Carioca,Casa,Vitória,3,0,0,0,Sim,Não,9,2024,Feb,Sat
+CA8,Bangu-RJ,Flamengo,0,3,Carioca - Round 8,2024-02-15 21:30:00,Arena Batistão-SE,15575,Carioca,Fora,Vitória,0,0,3,0,Sim,Não,10,2024,Feb,Thu
+CA9,Flamengo,Boa Vista-RJ,4,0,Carioca - Round 9,2024-02-21 21:30:00,Maracanã-RJ,34220,Carioca,Casa,Vitória,4,0,0,0,Sim,Não,11,2024,Feb,Wed
+CA10,Flamengo,Fluminense,2,0,Carioca - Round 10,2024-02-25 16:00:00,Maracanã-RJ,55401,Carioca,Casa,Vitória,2,0,0,0,Sim,Não,12,2024,Feb,Sun
+CA11,Flamengo,Madureira-RJ,3,0,Carioca - Round 11,2024-03-02 16:00:00,Maracanã-RJ,63422,Carioca,Casa,Vitória,3,0,0,0,Sim,Não,13,2024,Mar,Sat
+CA12,Fluminense,Flamengo,0,2,Carioca - Semifinal - First leg,2024-03-09 21:30:00,Maracanã-RJ,52169,Carioca,Fora,Vitória,0,0,2,0,Sim,Não,14,2024,Mar,Sat
+CA13,Flamengo,Fluminense,0,0,Carioca - Semifinal - Second leg,2024-03-16 21:00:00,Maracanã-RJ,56261,Carioca,Casa,Empate,0,0,0,0,Não,Não,15,2024,Mar,Sat
+CA14,Nova Iguaçu-RJ,Flamengo,0,3,Carioca - Final - First leg,2024-03-30 17:00:00,Maracanã-RJ,43778,Carioca,Fora,Vitória,0,0,3,0,Sim,Não,16,2024,Mar,Sat
+LIB1,Millonarios-COL,Flamengo,1,1,Copa Libertadores - Round 1,2024-04-02 19:00:00,El Campin-COL,22205,Copa Libertadores,Fora,Empate,0,0,1,1,Sim,Sim,17,2024,Apr,Tue
+CA15,Flamengo,Nova Iguaçu-RJ,1,0,Carioca - Final - Second leg,2024-04-07 17:00:00,Maracanã-RJ,65757,Carioca,Casa,Vitória,1,0,0,0,Sim,Não,18,2024,Apr,Sun
+LIB2,Flamengo,Palestino-CHI,2,0,Copa Libertadores - Round 2,2024-04-10 19:00:00,Maracanã-RJ,58597,Copa Libertadores,Casa,Vitória,2,0,0,0,Sim,Não,19,2024,Apr,Wed
+BR1,Atlético-GO,Flamengo,1,2,Campeonato Brasileiro - Round 1,2024-04-14 16:00:00,Serra Dourada-GO,35195,Campeonato Brasileiro,Fora,Vitória,0,0,2,1,Sim,Sim,20,2024,Apr,Sun
+BR2,Flamengo,São Paulo,2,1,Campeonato Brasileiro - Round 2,2024-04-17 21:30:00,Maracanã-RJ,48103,Campeonato Brasileiro,Casa,Vitória,2,1,0,0,Sim,Sim,21,2024,Apr,Wed
+BR3,Palmeiras,Flamengo,0,0,Campeonato Brasileiro - Round 3,2024-04-21 16:00:00,Allianz Arena-SP,29956,Campeonato Brasileiro,Fora,Empate,0,0,0,0,Não,Não,22,2024,Apr,Sun
+LIB3,Bolívar-BOL,Flamengo,2,1,Copa Libertadores - Round 3,2024-04-24 21:30:00,Hernando Siles-BOL,22620,Copa Libertadores,Fora,Derrota,0,0,1,2,Sim,Sim,23,2024,Apr,Wed
+BR4,Flamengo,Botafogo,0,2,Campeonato Brasileiro - Round 4,2024-04-28 11:00:00,Maracanã-RJ,46798,Campeonato Brasileiro,Casa,Derrota,0,2,0,0,Não,Sim,24,2024,Apr,Sun
+CB1,Flamengo,Amazonas-AM,1,0,Copa do Brasil - Round 3 - First leg,2024-05-01 21:30:00,Maracanã-RJ,39015,Copa do Brasil,Casa,Vitória,1,0,0,0,Sim,Não,25,2024,May,Wed
+BR5,Bragantino,Flamengo,1,1,Campeonato Brasileiro - Round 5,2024-05-04 18:30:00,Nabi Abi Chedid-SP,9971,Campeonato Brasileiro,Fora,Empate,0,0,1,1,Sim,Sim,26,2024,May,Sat
+LIB4,Palestino-CHI,Flamengo,1,0,Copa Libertadores - Round 4,2024-05-07 21:00:00,Francisco Sánchez Rumoroso-CHI,4217,Copa Libertadores,Fora,Derrota,0,0,0,1,Não,Sim,27,2024,May,Tue
+BR6,Flamengo,Corinthians,2,0,Campeonato Brasileiro - Round 6,2024-05-11 16:00:00,Maracanã-RJ,56829,Campeonato Brasileiro,Casa,Vitória,2,0,0,0,Sim,Não,28,2024,May,Sat
+LIB5,Flamengo,Bolívar-BOL,4,0,Copa Libertadores - Round 5,2024-05-15 21:30:00,Maracanã-RJ,63169,Copa Libertadores,Casa,Vitória,4,0,0,0,Sim,Não,29,2024,May,Wed
+CB2,Amazonas-AM,Flamengo,0,1,Copa do Brasil - Round 3 - Second leg,2024-05-22 21:30:00,Arena da Amazônia-AM,22948,Copa do Brasil,Fora,Vitória,0,0,1,0,Sim,Não,30,2024,May,Wed
+LIB6,Flamengo,Millonarios-COL,3,0,Copa Libertadores - Round 6,2024-05-28 21:00:00,Maracanã-RJ,64268,Copa Libertadores,Casa,Vitória,3,0,0,0,Sim,Não,31,2024,May,Tue
+BR7,Vasco,Flamengo,1,6,Campeonato Brasileiro - Round 7,2024-06-02 16:00:00,Maracanã-RJ,62228,Campeonato Brasileiro,Fora,Vitória,0,0,6,1,Sim,Sim,32,2024,Jun,Sun
+BR8,Flamengo,Grêmio,2,1,Campeonato Brasileiro - Round 8,2024-06-13 20:00:00,Maracanã-RJ,51785,Campeonato Brasileiro,Casa,Vitória,2,1,0,0,Sim,Sim,33,2024,Jun,Thu
+BR9,Athletico-PR,Flamengo,1,1,Campeonato Brasileiro - Round 9,2024-06-16 16:00:00,Ligga Arena-PR,38641,Campeonato Brasileiro,Fora,Empate,0,0,1,1,Sim,Sim,34,2024,Jun,Sun
+BR10,Flamengo,Bahia,2,1,Campeonato Brasileiro - Round 10,2024-06-20 20:00:00,Maracanã-RJ,49909,Campeonato Brasileiro,Casa,Vitória,2,1,0,0,Sim,Sim,35,2024,Jun,Thu
+BR11,Fluminense,Flamengo,0,1,Campeonato Brasileiro - Round 11,2024-06-23 16:00:00,Maracanã-RJ,57098,Campeonato Brasileiro,Fora,Vitória,0,0,1,0,Sim,Não,36,2024,Jun,Sun
+BR12,Juventude,Flamengo,2,1,Campeonato Brasileiro - Round 12,2024-06-26 20:00:00,Alfredo Jaconi-RS,12675,Campeonato Brasileiro,Fora,Derrota,0,0,1,2,Sim,Sim,37,2024,Jun,Wed
+BR13,Flamengo,Cruzeiro,2,1,Campeonato Brasileiro - Round 13,2024-06-30 18:30:00,Maracanã-RJ,52768,Campeonato Brasileiro,Casa,Vitória,2,1,0,0,Sim,Sim,38,2024,Jun,Sun
+BR14,Atlético-MG,Flamengo,2,4,Campeonato Brasileiro - Round 14,2024-07-03 21:30:00,MRV Arena-MG,39993,Campeonato Brasileiro,Fora,Vitória,0,0,4,2,Sim,Sim,39,2024,Jul,Wed
+BR15,Flamengo,Cuiabá,1,1,Campeonato Brasileiro - Round 15,2024-07-06 20:00:00,Maracanã-RJ,54948,Campeonato Brasileiro,Casa,Empate,1,1,0,0,Sim,Sim,40,2024,Jul,Sat
+BR16,Flamengo,Fortaleza,1,2,Campeonato Brasileiro - Round 16,2024-07-11 20:00:00,Maracanã-RJ,57500,Campeonato Brasileiro,Casa,Derrota,1,2,0,0,Sim,Sim,41,2024,Jul,Thu
+BR17,Flamengo,Criciúma,2,1,Campeonato Brasileiro - Round 17,2024-07-20 16:00:00,Mané Garrincha-BR,60127,Campeonato Brasileiro,Casa,Vitória,2,1,0,0,Sim,Sim,42,2024,Jul,Sat
+BR18,Vitória,Flamengo,1,2,Campeonato Brasileiro - Round 18,2024-07-24 20:00:00,Barradão-BA,30688,Campeonato Brasileiro,Fora,Vitória,0,0,2,1,Sim,Sim,43,2024,Jul,Wed
+BR19,Flamengo,Atlético-GO,2,0,Campeonato Brasileiro - Round 19,2024-07-28 16:00:00,Maracanã-RJ,61883,Campeonato Brasileiro,Casa,Vitória,2,0,0,0,Sim,Não,44,2024,Jul,Sun
+CB3,Flamengo,Palmeiras,2,0,Copa do Brasil - Round of 16 - First Leg,2024-07-31 20:00:00,Maracanã-RJ,59502,Copa do Brasil,Casa,Vitória,2,0,0,0,Sim,Não,45,2024,Jul,Wed
+BR20,São Paulo,Flamengo,1,0,Campeonato Brasileiro - Round 20,2024-08-03 21:30:00,Morumbis-SP,58065,Campeonato Brasileiro,Fora,Derrota,0,0,0,1,Não,Sim,46,2024,Aug,Sat
+CB4,Palmeiras,Flamengo,1,0,Copa do Brasil - Round of 16 - Second Leg,2024-08-07 20:00:00,Allianz Arena-SP,38463,Copa do Brasil,Fora,Derrota,0,0,0,1,Não,Sim,47,2024,Aug,Wed
+BR21,Flamengo,Palmeiras,1,1,Campeonato Brasileiro - Round 21,2024-08-11 16:00:00,Maracanã-RJ,55051,Campeonato Brasileiro,Casa,Empate,1,1,0,0,Sim,Sim,48,2024,Aug,Sun
+LIB7,Flamengo,Bolívar-BOL,2,0,Copa Libertadores - Round of 16 - First Leg,2024-08-15 21:30:00,Maracanã-RJ,65381,Copa Libertadores,Casa,Vitória,2,0,0,0,Sim,Não,49,2024,Aug,Thu
+BR22,Botafogo,Flamengo,4,1,Campeonato Brasileiro - Round 22,2024-08-18 18:30:00,Nilton Santos-RJ,23731,Campeonato Brasileiro,Fora,Derrota,0,0,1,4,Sim,Sim,50,2024,Aug,Sun
+LIB8,Bolívar-BOL,Flamengo,1,0,Copa Libertadores - Round of 16 - Second Leg,2024-08-22 21:30:00,Hernando Siles-BOL,29168,Copa Libertadores,Fora,Derrota,0,0,0,1,Não,Sim,51,2024,Aug,Thu
+BR23,Flamengo,Bragantino,2,1,Campeonato Brasileiro - Round 23,2024-08-25 20:00:00,Maracanã-RJ,30225,Campeonato Brasileiro,Casa,Vitória,2,1,0,0,Sim,Sim,52,2024,Aug,Sun
+CB5,Bahia,Flamengo,0,1,Copa do Brasil - Quarterfinals - First Leg,2024-08-28 21:30:00,Arena Fonte Nova-BA,46534,Copa do Brasil,Fora,Vitória,0,0,1,0,Sim,Não,53,2024,Aug,Wed
+BR24,Corinthians,Flamengo,2,1,Campeonato Brasileiro - Round 24,2024-09-01 16:00:00,NeoQuímica Arena-SP,45635,Campeonato Brasileiro,Fora,Derrota,0,0,1,2,Sim,Sim,54,2024,Sep,Sun
+CB6,Flamengo,Bahia,1,0,Copa do Brasil - Quarterfinals - Second Leg,2024-09-12 21:45:00,Maracanã-RJ,65662,Copa do Brasil,Casa,Vitória,1,0,0,0,Sim,Não,55,2024,Sep,Thu
+BR25,Flamengo,Vasco,1,1,Campeonato Brasileiro - Round 25,2024-09-15 18:30:00,Maracanã-RJ,64524,Campeonato Brasileiro,Casa,Empate,1,1,0,0,Sim,Sim,56,2024,Sep,Sun
+LIB9,Flamengo,Peñarol-URU,0,1,Copa Libertadores - Quarterfinals - First Leg,2024-09-19 19:00:00,Maracanã-RJ,64396,Copa Libertadores,Casa,Derrota,0,1,0,0,Não,Sim,57,2024,Sep,Thu
+BR26,Grêmio,Flamengo,3,2,Campeonato Brasileiro - Round 26,2024-09-22 18:30:00,Arena do Grêmio-RS,18049,Campeonato Brasileiro,Fora,Derrota,0,0,2,3,Sim,Sim,58,2024,Sep,Sun
+LIB10,Peñarol-URU,Flamengo,0,0,Copa Libertadores - Quarterfinals - Second Leg,2024-09-26 19:00:00,Campeón del Siglo-URU,38144,Copa Libertadores,Fora,Empate,0,0,0,0,Não,Não,59,2024,Sep,Thu
