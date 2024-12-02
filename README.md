@@ -55,19 +55,19 @@ Os dados dos jogos do Flamengo podem ser obtidos de várias fontes, como:
 ## Estatísticas
 
 ```
-Jogos: 69
-Vitórias: 41
-Empates: 15
+Jogos: 73
+Vitórias: 43
+Empates: 17
 Derrotas: 13 
-Gols pro: 107
-Gols contra: 47
-Saldo de gols: +60
-Gols/jogo: 1.55
+Gols pro: 112
+Gols contra: 50
+Saldo de gols: +62
+Gols/jogo: 1.53
 Gols sofridos/jogo: 0.68
-Jogos em que marcou: 56
-Jogos em que sofreu gol: 34 
+Jogos em que marcou: 58
+Jogos em que sofreu gol: 36 
 Aproveitamento: 66.67%
-Aproveitamento pontos: 138/207
+Aproveitamento pontos: 146/219
 ```
 
 
@@ -75,18 +75,18 @@ Aproveitamento pontos: 138/207
 |:------------------|-------:|---------------:|
 | Pedro             |     32 |              8 |
 | Arrascaeta        |     10 |              9 |
-| Bruno Henrique    |      8 |              3 |
+| Bruno Henrique    |      8 |              4 |
 | Everton Cebolinha |      6 |              4 |
 | Gabi              |      6 |              1 |
 | Luiz Araújo       |      6 |             10 |
-| Ayrton Lucas      |      4 |              5 |
 | Gerson            |      4 |              9 |
+| Ayrton Lucas      |      4 |              5 |
+| Michael           |      4 |              1 |
 | Léo Pereira       |      3 |              0 |
 | David Luiz        |      3 |              0 |
+| de la Cruz        |      2 |              5 |
 | Alcaraz           |      2 |              2 |
-| Michael           |      2 |              0 |
-| Carlinhos         |      2 |              0 |
-| Plata             |      2 |              1 |
+| Léo Ortiz         |      2 |              2 |
 
 
 
