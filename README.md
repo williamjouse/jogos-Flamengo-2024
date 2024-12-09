@@ -55,38 +55,53 @@ Os dados dos jogos do Flamengo podem ser obtidos de várias fontes, como:
 ## Estatísticas
 
 ```
-Jogos: 74
+Jogos: 75
 Vitórias: 44
-Empates: 17
+Empates: 18
 Derrotas: 13 
-Gols pro: 115
-Gols contra: 50
+Gols pro: 117
+Gols contra: 52
 Saldo de gols: +65
-Gols/jogo: 1.55
-Gols sofridos/jogo: 0.68
-Jogos em que marcou: 59
-Jogos em que sofreu gol: 36 
-Aproveitamento: 67.12%
-Aproveitamento pontos: 149/222
+Gols/jogo: 1.56
+Gols sofridos/jogo: 0.69
+Jogos em que marcou: 60
+Jogos em que sofreu gol: 37 
+Aproveitamento: 66.67%
+Aproveitamento pontos: 150/225
 ```
 
 
-| Jogador           |   Gols |   Assistências |
-|:------------------|-------:|---------------:|
-| Pedro             |     32 |              8 |
-| Arrascaeta        |     10 |              9 |
-| Bruno Henrique    |      9 |              4 |
-| Luiz Araújo       |      7 |             10 |
-| Everton Cebolinha |      6 |              4 |
-| Gabi              |      6 |              1 |
-| Michael           |      4 |              1 |
-| Gerson            |      4 |              9 |
-| Ayrton Lucas      |      4 |              6 |
-| David Luiz        |      3 |              0 |
-| Léo Pereira       |      3 |              0 |
-| Matheus Gonçalves |      2 |              0 |
-| de la Cruz        |      2 |              5 |
-| Plata             |      2 |              1 |
+| Jogador           |   Assistências | Jogador           |   Gols |
+|:------------------|---------------:|:------------------|-------:|
+| Luiz Araújo       |             10 | Pedro             |     32 |
+| Arrascaeta        |              9 | Arrascaeta        |     10 |
+| Gerson            |              9 | Bruno Henrique    |      9 |
+| Pedro             |              8 | Gabi              |      7 |
+| Ayrton Lucas      |              6 | Luiz Araújo       |      7 |
+| de la Cruz        |              5 | Everton Cebolinha |      6 |
+| Bruno Henrique    |              4 | Ayrton Lucas      |      5 |
+| Everton Cebolinha |              4 | Michael           |      4 |
+| Pulgar            |              4 | Gerson            |      4 |
+| Lorran            |              3 | David Luiz        |      3 |
+| Wesley            |              2 | Léo Pereira       |      3 |
+| Alcaraz           |              2 | Gol Contra        |      3 |
+| Léo Ortiz         |              2 | Matheus Gonçalves |      2 |
+| Viña              |              2 | de la Cruz        |      2 |
+| Igor Jesus        |              2 | Plata             |      2 |
+| Everton Cebolinha |              1 | Varela            |      2 |
+| Gabi              |              1 | Alcaraz           |      2 |
+| Varela            |              1 | Carlinhos         |      2 |
+| Plata             |              1 | Léo Ortiz         |      2 |
+| Michael           |              1 | Gabriel           |      1 |
+| de la Cruz        |              1 | Alex Sandro       |      1 |
+| Alex Sandro       |              1 | Felipe Teresa     |      1 |
+| -                 |              - | Lorran            |      1 |
+| -                 |              - | Leo Pereira       |      1 |
+| -                 |              - | Fabricio Bruno    |      1 |
+| -                 |              - | Evertton Araújo   |      1 |
+| -                 |              - | Viña              |      1 |
+| -                 |              - | Thiaguinho        |      1 |
+| -                 |              - | Guilherme         |      1 |
 
 
 
